@@ -1,1 +1,1 @@
-# mhdSharuk-Melanoma-Skin-Cancer-Classification
+# Melanoma-Skin-Cancer-Classification
